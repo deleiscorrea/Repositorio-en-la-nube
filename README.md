@@ -1,1 +1,1 @@
-# Repositorio-en-la-nube
+Prueba de cómo crear repositorio en la nube desde GitHub y clonarlo a mi computadora
